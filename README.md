@@ -1,4 +1,4 @@
-# Dockerized Spring Boot Application
+# Postcodelotterie Assessment
 ## At the commandline
 ### $mvn clean install
 ### $docker build -t crud-postcodelotterie-assessment.jar .
